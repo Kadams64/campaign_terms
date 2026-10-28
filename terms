@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms & Conditions</title>
+</head>
+<body>
+    <h1>Terms & Conditions</h1>
+
+    <h1>SMS Terms</h1>
+    <p>This service will provide short text messages containing information related to
+    coursework being performed by Kelly Adams.  Examples include weather updates or notifications regarding
+    ISS location.</p>
+    <p>Message frequency is expected to be on the order of once or twice per day.  As these are expermental messages
+    sent related to Python educational course work, there may be some times when the messages are more frequent</p>
+    <p>To opt out of these messages you may contact Kelly Adams at kadams1@telus.net.  
+    Likewise for any help that may be required</p>
+    <p>Message and data rates may apply.  We have no registered brand name 
+    as this is entirely educational.</p>
+</body>
+</html>
